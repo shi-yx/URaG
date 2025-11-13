@@ -20,7 +20,7 @@ The official implementation of *URaG: Unified Retrieval and Generation in Multim
 Document Understanding* (AAAI 2026 Oral). 
 
 <div align="center">
-  <img alt="URaG framework" src="figures/urag_framework.png" width="700">
+  <img alt="URaG framework" src="figures/urag_framework.jpg" width="700">
 </div>
 <br>
 
