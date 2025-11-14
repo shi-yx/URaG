@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://arxiv.org/abs/">
+  <a href="https://arxiv.org/abs/2511.10552">
     <img alt="arxiv-link" src="https://img.shields.io/badge/Paper-arXiv-B31B1B">
   </a>
 </div>
