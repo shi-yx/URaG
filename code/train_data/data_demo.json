@@ -1,0 +1,914 @@
+[
+  {
+    "id": "0",
+    "image": [
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nHow much in dollar is the Online shopping of physical goods in India in 2013?"
+      },
+      {
+        "from": "gpt",
+        "value": "2Bn"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "1",
+    "image": [
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nHow much difference in INR is there between the average order value of CY2013 and that of CY2012?"
+      },
+      {
+        "from": "gpt",
+        "value": "780"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "2",
+    "image": [
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhich is used more for payment in India in 2013, Credit Cards or Debit Cards?"
+      },
+      {
+        "from": "gpt",
+        "value": "Credit Cards"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "3",
+    "image": [
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nIn which way are more books sold in India in CY 2013, Online or Offline?"
+      },
+      {
+        "from": "gpt",
+        "value": "Offline"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "4",
+    "image": [
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/accel-india-ecommerce-mar14-140401225936-phpapp01_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nHow many online shopping orders are made per month in CY2013 in India?"
+      },
+      {
+        "from": "gpt",
+        "value": "5M"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "5",
+    "image": [
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhat is the MAIN DISADVANTAGE of INERT GAS?"
+      },
+      {
+        "from": "gpt",
+        "value": "POSES A GRAVE HEALTH HAZARD"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "6",
+    "image": [
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nHow many ADVANTAGES OF INERT GAS are given?"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "7",
+    "image": [
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhat can Provision of an IGS do?"
+      },
+      {
+        "from": "gpt",
+        "value": "give absolute control"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "8",
+    "image": [
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhat does an OXYGEN ANALYSER do?"
+      },
+      {
+        "from": "gpt",
+        "value": "Measures OXYGEN by % volume"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "9",
+    "image": [
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/1rnxxoutge4gmfftkliz-140615033824-phpapp02_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhat are the Lower and Upper Limits in Air % by Volume for Propane?"
+      },
+      {
+        "from": "gpt",
+        "value": "2.2, 9.5"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "10",
+    "image": [
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nAt what time were the greatest number of Searches for Kia Sorento?"
+      },
+      {
+        "from": "gpt",
+        "value": "5pm"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "11",
+    "image": [
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhich takes less Processing Time, Hive or Spark?"
+      },
+      {
+        "from": "gpt",
+        "value": "Spark"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "12",
+    "image": [
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhich takes less Processing Time, the solution that is a mature, supported product or Spark?"
+      },
+      {
+        "from": "gpt",
+        "value": "Spark"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "13",
+    "image": [
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/03jongregg-150624022045-lva1-app6892_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nHow many minutes does Hive take to process 1hr of Site Activity Data?"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "14",
+    "image": [
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhat is the Kodak Brownie Snap-Shot Camera?"
+      },
+      {
+        "from": "gpt",
+        "value": "first easy to use point and shoot"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "15",
+    "image": [
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_1_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_2_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_3_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_4_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_5_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_6_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_7_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_8_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_9_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_10_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_11_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_12_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_13_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_14_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_15_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_16_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_17_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_18_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_19_1024.jpg",
+      "./dataset/SlideVQA/images/2014-thenextweb-smrf-nodexl-sna-socialmedianetworks-140502092744-phpapp01_95/slide_20_1024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\n<image>\nWhat is Social Media about?"
+      },
+      {
+        "from": "gpt",
+        "value": "connections from people to people"
+      }
+    ],
+    "retrieval_labels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
