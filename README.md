@@ -6,13 +6,12 @@
 </h1>
 
 <div align="center">
-  <a href="https://arxiv.org/abs/2511.10552">
+  <a href="https://arxiv.org/abs/">
     <img alt="arxiv-link" src="https://img.shields.io/badge/Paper-arXiv-B31B1B">
   </a>
-</div>
-
-<div align="center">
-  <b> 🕖 The code will be released soon 🚧 </b>
+  <a href="https://huggingface.co/shiyx1/URaG-3B">
+    <img alt="huggingface-link" src="https://img.shields.io/badge/Model-%F0%9F%A4%97%20Hugging Face-ff7c00">
+  </a>
 </div>
 
 
